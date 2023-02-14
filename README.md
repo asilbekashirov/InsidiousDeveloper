@@ -3,6 +3,7 @@
 - 🌱 I’m currently on a path of becoming FullStack web developer
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me asilbekashirov03@gmail.com
+- 🧑‍💻 My GitLab https://gitlab.com/asilbekashirov
 
 <!---
 InsidiousDeveloper/InsidiousDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
